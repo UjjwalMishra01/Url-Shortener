@@ -1,4 +1,5 @@
 import UrlShortenerContainer from "@/components/ui/url-shortener-container";
+import { Analytics } from "@vercel/analytics/next"
 import Image from "next/image";
 
 export default function Home() {
@@ -8,6 +9,7 @@ export default function Home() {
         <h1 className="text-3xl md:text-4xl font-bold ">URL Shortener</h1>
         <p className="md:text-lg">Shorten your URLs and share them easily.</p>
       </div>
+       <Analytics/>
       <UrlShortenerContainer></UrlShortenerContainer>
     </main>
   );
