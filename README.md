@@ -122,10 +122,10 @@ http://localhost:3000
 
 ## TESTING RESULTS (POSTMAN & NETWORK CONSOLE)
 
-![Postman Result](./images/Postman_Result.jpg)
-![Network Console Request Status](./images/network_console_result.jpg)
+![Postman Result](./results/Postman_Result.jpg)
+![Network Console Request Status](./results/netowork_console_result.jpg)
 
-![Network Console Call Output](./images/short_code_network_console.jpg)
+![Network Console Call Output](./results/short_code_network_console.jpg)
 
 
 ---
