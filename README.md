@@ -5,6 +5,12 @@ The application allows users to shorten long URLs, copy shortened URLs to clipbo
 
 ---
 
+
+## 🔗 Live Demo
+Visit the deployed application here:  
+[URL Shortener Live](https://url-shortener-bice-zeta.vercel.app/)
+
+
 ## 🚀 Features
 
 - Shorten long URLs using nanoid  
