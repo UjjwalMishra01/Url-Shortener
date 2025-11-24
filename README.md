@@ -122,9 +122,12 @@ http://localhost:3000
 
 ## TESTING RESULTS (POSTMAN & NETWORK CONSOLE)
 
-![alt text](image-1.png)
-![alt text](<WhatsApp Image 2025-11-24 at 11.42.34_0ef3c668.jpg>)
-![alt text](<WhatsApp Image 2025-11-24 at 11.42.35_1fc5542b.jpg>)
+![Postman Result](./images/Postman_Result.jpg)
+![Network Console Request Status](./images/network_console_result.jpg)
+
+![Network Console Call Output](./images/short_code_network_console.jpg)
+
+
 ---
 
 
